@@ -34,10 +34,12 @@ command line argument.
 
 Examples:
 $ ./prog0 Smile, you people!
+
 FAIL
 FAIL
 
 $ ./prog0 LHelp UmY34!$xxx run
+
 help
 MY34!$XXX
 nu 
